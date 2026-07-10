@@ -167,3 +167,10 @@ Through this project, I gained hands-on experience with:
 
 * Kaggle for providing the Loan Prediction dataset.
 * Scikit-learn documentation for machine learning implementation.
+
+---
+
+## Note
+
+This project was originally developed as part of a first-semester machine learning assignment. The original collaborative repository and dataset are no longer available. This repository contains the reconstructed implementation and documentation based on the project work completed during the course. The dataset used is the publicly available Kaggle Loan Prediction dataset.
+
