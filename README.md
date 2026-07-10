@@ -1,4 +1,4 @@
-# Loan Fraud Detection
+# Loan Fraud Detection ML 
 
 A machine learning project that explores the loan approval dataset from Kaggle to build predictive classification models. The project covers the complete machine learning workflow including exploratory data analysis, data preprocessing, feature engineering, model training, hyperparameter tuning, and evaluation of multiple classification algorithms.
 
