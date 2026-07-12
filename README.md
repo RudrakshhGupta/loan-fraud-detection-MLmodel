@@ -6,7 +6,7 @@ A machine learning project that explores the loan approval dataset from Kaggle t
 
 ---
 
-## Overview
+## Overview-
 
 Financial institutions process thousands of loan applications every day. Predicting whether a loan application should be approved is an important classification problem that helps reduce financial risk and improve decision making.
 
